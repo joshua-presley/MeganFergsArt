@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # firegram
 Starter &amp; final course files for the FireGram tutorial (React, Firebase &amp; Framer Motion) on Brad Traversy's YouTube channel.
 
@@ -7,7 +6,6 @@ Link to video - https://www.youtube.com/watch?v=vUe91uOx7R0&t=652s
 ### Using the files
 * To see the starter files, select the 'starter' branch.
 * To see the final files, select the 'final' branch.
-=======
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -76,4 +74,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
->>>>>>> starter-files
